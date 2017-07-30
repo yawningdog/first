@@ -18,9 +18,9 @@ if __name__ == '__main__':
 
 
     # VARIABLES THAT NEED CHANGED
-    ip = '1.1.1.16'
-    username = 'testuser'
-    password = 'password'
+    ip = '192.168.1.203'
+    username = 'reblalock'
+    password = '1W@R+hog'
 
     # Create instance of SSHClient object
     remote_conn_pre = paramiko.SSHClient()
